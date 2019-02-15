@@ -11,5 +11,6 @@ namespace Demo.Controllers
     {
         string mytxt = "this line is writtten by me";
         private string name = "animesh";
+        string name2 = "this is rana";
     }
 }
