@@ -10,5 +10,6 @@ namespace Demo.Controllers
     public class AnimeController : ApiController
     {
         string mytxt = "this line is writtten by me";
+        private string name = "animesh";
     }
 }
